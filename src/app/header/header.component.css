@@ -1,0 +1,32 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: skyblue;
+}
+
+.logo, .search, .menubar{
+    margin: auto;
+}
+
+.menubar ul{
+    list-style: none;
+    display: inline-block;
+}
+
+.menubar ul li{
+    display: inline;
+    margin-left: 20px;
+}
+
+.search input[type="text"]{
+    height: 30px;
+    border: 1px solid black;
+    border-right: 0px;
+    width: 200px;
+}
+
+.search button{
+    height: 34px;
+    border: 1px solid black;
+    border-left: 0px;
+}

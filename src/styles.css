@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.wrapper{
+    border:1px solid skyblue;
+    border-radius: 5px;
+    min-height: 700px;
+}

@@ -1,0 +1,16 @@
+.login_container{
+    margin: 10% auto;
+    text-align: center;
+}
+
+.login_form{
+    margin: 0px auto;
+    border: 1px solid skyblue;
+    width: 400px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.form_element{
+    line-height: 35px;
+}
